@@ -1,0 +1,15 @@
+artifact_uri: file:///home/niyati/Documents/MLFLOW-Gen-AI-main/MLFLOW-Gen-AI-main/mlruns/631928308411270202/2c58d8fbc0684e579e771ba851e15c0c/artifacts
+end_time: 1727933484860
+entry_point_name: ''
+experiment_id: '631928308411270202'
+lifecycle_stage: active
+run_id: 2c58d8fbc0684e579e771ba851e15c0c
+run_name: welcoming-midge-620
+run_uuid: 2c58d8fbc0684e579e771ba851e15c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727933475071
+status: 4
+tags: []
+user_id: niyati
